@@ -2,14 +2,6 @@
   default = current
 [color]
   ui = auto
-[alias]
-  aa = add --all
-  ap = add --patch
-  c  = commit
-  ca = commit --amend
-  co = checkout
-  l  = log
-  s  = status
 [core]
   excludesfile = ~/.gitignore
   autocrlf = input
@@ -21,8 +13,8 @@
 [commit]
   template = ~/.gitmessage
 [user]
-  name = Anthony Fuentes
-  email = anthony.c.fuentes@gmail.com
+  name = Antonia Dyvik
+  email = adyvik@purdue.edu
 [diff]
     tool = Kaleidoscope
 [difftool "Kaleidoscope"]
